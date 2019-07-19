@@ -3,7 +3,7 @@ A Goal Setting Web App which can be used in a company to setup up some goals whi
 
 ### Working:
 You need to be signup to setup any goal or to complete the goal. Once login you can setup you work goal to be completed by others and when someone completes the goal he/she can click complete to complete the target. 
-Goal submitted by and completed by is mentioned in the app which is helpful that who completed which goal.
+Goal submitted by and completed by is mentioned in the app which is helpful that who completed which goal.Also you can clear the goals you've completed by clicking clear all.
 
 **Backend Used is Firebase** for storing the data and the Auth details.
 
