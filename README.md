@@ -11,6 +11,6 @@ Goal submitted by and completed by is mentioned in the app which is helpful that
 
 After cloning the app don't forget to run `npm install` or `npm i` to install the modules used in the app then run `npm start`
 
-Below shown some screenshots of the application in action:
+Below shown a screenshot of the application in action:
 
 ![screenshot1](screenshots/screen1.png)
